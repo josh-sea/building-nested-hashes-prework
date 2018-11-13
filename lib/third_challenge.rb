@@ -8,7 +8,7 @@ epic_tragedy = {
           {:name =>"Benvolio"}.
           {:age =>"17"},
           {:attitude =>"worried"}
-      ]
+        ]
    },
    :capulet => {
       :patriarch => {name: "Lord Capulet", age: "50"},
